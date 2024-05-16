@@ -1,4 +1,4 @@
-import main as ga
+import GA as ga
 NUM_CHROMOSOMES = 12
 
 pop = ga.run_genetic_algorithm(NUM_CHROMOSOMES ,generations=10)
